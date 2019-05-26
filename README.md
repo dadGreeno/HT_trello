@@ -1,12 +1,12 @@
 # TRELLO CARD CHALLENGE
 Challenge completed to demonstrate coding ability for HT.
 
-##Spring boot app
+## Spring boot app
 
 - Run using gradle or from STS or HtTrelloApplication.java => Run As > Java App.
 - Built using STS.
 
-##Run REACT app
+## Run REACT app
 - Run from frontend folder using `yarn start`
 - Requests to boot api are proxied through `http://localhost:8080`
 
