@@ -7,6 +7,7 @@ Challenge completed to demonstrate coding ability for HT.
 - Built using STS.
 
 ## Run REACT app
+- Use `npm install` to add the node modules
 - Run from frontend folder using `yarn start`
 - Requests to boot api are proxied through `http://localhost:8080`
 
